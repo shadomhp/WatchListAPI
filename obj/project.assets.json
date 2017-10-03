@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\DotNetCore\\Example1\\Example1.csproj",
+      "projectUniqueName": "q:\\DotNetCore\\Example1\\Example1.csproj",
       "projectName": "Example1",
-      "projectPath": "Q:\\DotNetCore\\Example1\\Example1.csproj",
+      "projectPath": "q:\\DotNetCore\\Example1\\Example1.csproj",
       "packagesPath": "C:\\Users\\0030481513052\\.nuget\\packages\\",
-      "outputPath": "Q:\\DotNetCore\\Example1\\obj\\",
+      "outputPath": "q:\\DotNetCore\\Example1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
